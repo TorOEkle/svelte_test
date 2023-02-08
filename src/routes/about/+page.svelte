@@ -4,23 +4,15 @@
 </svelte:head>
 
 <div class="text-column">
-	<h1>About this app</h1>
+	<h1>About</h1>
 
 	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
-		following into your command line and following the prompts:
-	</p>
-
-	<pre>npm create svelte@latest</pre>
-
-	<p>
-		The page you're looking at is purely static HTML, with no client-side interactivity needed.
-		Because of that, we don't need to load any JavaScript. Try viewing the page's source, or opening
-		the devtools network panel and reloading.
+		This is a test page for Tor Odin Ekle to learn Svelte. For more projects check my <a href="https://github.com/TorOEkle">GitHub</a>. 
+		This page is built with SvelteKit. 
 	</p>
 
 	<p>
-		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
-		using it with JavaScript disabled!
+		I am an Economist with mechanical background from manufacturing and oil industry that work in tech and want to learn more. 
+		Tools that I focus to learn more about now is Python, Streamlit, SQL and Svelte. I have an interest in electricity markets so my test project will most likely be related to that field. 
 	</p>
 </div>
