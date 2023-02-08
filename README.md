@@ -1,2 +1,2 @@
-# svelte_test
-Play around with Svelte
+# Svelte Test
+This repo is to play around with Svelte
