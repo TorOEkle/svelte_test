@@ -2,6 +2,8 @@
 	import { page } from '$app/stores';
 	import logo from '$lib/images/svelte-logo.svg';
 	import github from '$lib/images/github.svg';
+	import linkedin from '$lib/images/linkedin.png';
+	import linked from '$lib/images/linkedin.svg';
 </script>
 
 <header>
@@ -37,6 +39,9 @@
 	<div class="corner">
 		<a href="https://github.com/TorOEkle">
 			<img src={github} alt="GitHub" />
+		</a>
+		<a href="https://www.linkedin.com/in/torodin/">
+			<img src={linked} alt="Linkedin" />
 		</a>
 	</div>
 </header>

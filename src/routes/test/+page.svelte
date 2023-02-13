@@ -32,6 +32,8 @@
   <input type="text" bind:value={$user.fill} />
 </form>
  
+
+
  <style>
   .content {
     display: grid;
